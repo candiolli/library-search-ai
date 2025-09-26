@@ -1,0 +1,8 @@
+Here are two books that focus on artificial intelligence, drawn directly from the information you provided:
+
+| Title | Description | Author / Category | Pages | Launch |
+|-------|-------------|-------------------|-------|--------|
+| **Artificial Intelligence with Rust** | A comprehensive guide on artificial intelligence focusing on modern practices and real-world applications. | Wrote by “Machine Learning, is related with those categories Christopher Haynes.” | “ AI” | 338 |
+| **Artificial Intelligence with Java** | A comprehensive guide on artificial intelligence focusing on modern practices and real-world applications. | Wrote by “AI, is related with those categories Juan Evans.” | “ Neural Networks” | Big Data |
+
+These two titles are both centered on AI and provide the details you supplied.

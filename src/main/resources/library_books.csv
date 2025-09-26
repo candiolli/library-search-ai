@@ -1,0 +1,101 @@
+name,description,author,tags,pages,dateOfLaunch
+Programming Languages with Rust,A comprehensive guide on programming languages focusing on modern practices and real-world applications.,Krista Smith,"Spring Boot, Machine Learning",287,2025-07-31
+DevOps with Go,A comprehensive guide on devops focusing on modern practices and real-world applications.,Mrs. Melissa Stout MD,"System Design, Python, Docker, Kubernetes",656,2021-03-24
+Cloud Computing with Rust,A comprehensive guide on cloud computing focusing on modern practices and real-world applications.,Kelsey Spencer,"Microservices, System Design, Cloud",662,2022-05-22
+Distributed Systems with Scala,A comprehensive guide on distributed systems focusing on modern practices and real-world applications.,Alexandria Smith,"C++, Functional Programming, OOP",515,2020-03-29
+Machine Learning with Rust,A comprehensive guide on machine learning focusing on modern practices and real-world applications.,Joshua Smith,"Java, Neural Networks",527,2024-11-05
+Agile Methodologies with Scala,A comprehensive guide on agile methodologies focusing on modern practices and real-world applications.,Eric Baker,"Kubernetes, Machine Learning, OOP",248,2019-05-31
+Software Engineering with Go,A comprehensive guide on software engineering focusing on modern practices and real-world applications.,Patrick Miller PhD,"Neural Networks, Cloud, System Design",233,2021-08-09
+Artificial Intelligence with Java,A comprehensive guide on artificial intelligence focusing on modern practices and real-world applications.,Richard Warren,"C++, Cloud, Spring Boot",254,2020-05-07
+Machine Learning with Python,A comprehensive guide on machine learning focusing on modern practices and real-world applications.,Sheri Palmer,"Kubernetes, Spring Boot, System Design, OOP",612,2023-06-30
+Machine Learning with Rust,A comprehensive guide on machine learning focusing on modern practices and real-world applications.,Robert Gilbert,"Python, Big Data, Machine Learning, C++, Java",277,2023-03-07
+Cybersecurity with Scala,A comprehensive guide on cybersecurity focusing on modern practices and real-world applications.,Daniel Evans,"Kubernetes, C++, Functional Programming",276,2024-05-25
+DevOps with Go,A comprehensive guide on devops focusing on modern practices and real-world applications.,Alexis Villanueva,"Docker, Functional Programming",302,2025-03-17
+Data Engineering with C++,A comprehensive guide on data engineering focusing on modern practices and real-world applications.,Melinda Adams,"Big Data, Spring Boot, C++",337,2020-09-25
+Cloud Computing with Go,A comprehensive guide on cloud computing focusing on modern practices and real-world applications.,Jorge Hammond,"Kubernetes, Java",474,2018-05-22
+Artificial Intelligence with Go,A comprehensive guide on artificial intelligence focusing on modern practices and real-world applications.,Dr. Amber Jackson,"Big Data, Neural Networks",767,2020-05-17
+Software Architecture with Java,A comprehensive guide on software architecture focusing on modern practices and real-world applications.,Robert Anderson,"Kubernetes, Java, OOP, Microservices",619,2018-04-13
+Artificial Intelligence with Rust,A comprehensive guide on artificial intelligence focusing on modern practices and real-world applications.,Dana Torres,"Python, OOP, Neural Networks, AI, Machine Learning",367,2020-09-04
+Cybersecurity with Rust,A comprehensive guide on cybersecurity focusing on modern practices and real-world applications.,Anthony Johnson,"System Design, Microservices, OOP",883,2020-03-14
+Distributed Systems with C++,A comprehensive guide on distributed systems focusing on modern practices and real-world applications.,Christopher Higgins,"System Design, Spring Boot, Java, Docker",489,2017-09-10
+Cloud Computing with Scala,A comprehensive guide on cloud computing focusing on modern practices and real-world applications.,Ashley Malone,"Big Data, Functional Programming",378,2016-10-06
+DevOps with C++,A comprehensive guide on devops focusing on modern practices and real-world applications.,Samantha Morris,"Cloud, Java, Machine Learning",197,2024-02-29
+Artificial Intelligence with Go,A comprehensive guide on artificial intelligence focusing on modern practices and real-world applications.,Gina Wolfe,"C++, Docker, Microservices",730,2015-10-21
+DevOps with C++,A comprehensive guide on devops focusing on modern practices and real-world applications.,Jessica Kelley,"Docker, Big Data, AI, Spring Boot, Kubernetes",696,2020-09-04
+Machine Learning with Python,A comprehensive guide on machine learning focusing on modern practices and real-world applications.,Paige Austin,"Python, Big Data",402,2020-05-07
+Software Architecture with C++,A comprehensive guide on software architecture focusing on modern practices and real-world applications.,Cheryl Dixon,"Microservices, Machine Learning",549,2025-06-06
+Agile Methodologies with Java,A comprehensive guide on agile methodologies focusing on modern practices and real-world applications.,Troy Lopez,"Python, C++, Machine Learning, Spring Boot, System Design",333,2022-09-24
+Data Engineering with Python,A comprehensive guide on data engineering focusing on modern practices and real-world applications.,Nancy Gonzalez,"Java, OOP, Big Data",555,2021-07-08
+Distributed Systems with Python,A comprehensive guide on distributed systems focusing on modern practices and real-world applications.,Adam Wheeler,"Neural Networks, Cloud, Java",863,2015-12-13
+Cybersecurity with Scala,A comprehensive guide on cybersecurity focusing on modern practices and real-world applications.,Matthew Powell,"Machine Learning, Spring Boot",828,2023-10-25
+Data Engineering with C++,A comprehensive guide on data engineering focusing on modern practices and real-world applications.,Katie Landry,"System Design, Java, OOP, Microservices",516,2017-04-07
+Programming Languages with Java,A comprehensive guide on programming languages focusing on modern practices and real-world applications.,Jeffrey Li,"Spring Boot, AI, Microservices",614,2023-01-26
+Software Architecture with Rust,A comprehensive guide on software architecture focusing on modern practices and real-world applications.,Jeffrey Blair,"C++, Machine Learning, Java",480,2018-11-26
+Cloud Computing with C++,A comprehensive guide on cloud computing focusing on modern practices and real-world applications.,Julia Price,"AI, OOP",492,2021-01-19
+Distributed Systems with Java,A comprehensive guide on distributed systems focusing on modern practices and real-world applications.,Emily Allen,"Python, Functional Programming",394,2016-08-26
+Cybersecurity with C++,A comprehensive guide on cybersecurity focusing on modern practices and real-world applications.,Evan Collins,"Kubernetes, Docker, Microservices, Python",450,2023-04-06
+Software Architecture with C++,A comprehensive guide on software architecture focusing on modern practices and real-world applications.,Olivia Cunningham,"Functional Programming, Cloud, Python, Java, Neural Networks",475,2021-12-03
+Programming Languages with C++,A comprehensive guide on programming languages focusing on modern practices and real-world applications.,Kevin Barton,"Kubernetes, Docker, Machine Learning, Neural Networks, AI",648,2020-04-28
+Machine Learning with Rust,A comprehensive guide on machine learning focusing on modern practices and real-world applications.,Seth Cunningham,"OOP, System Design, Kubernetes, Neural Networks",353,2017-01-11
+Artificial Intelligence with Java,A comprehensive guide on artificial intelligence focusing on modern practices and real-world applications.,Juan Evans,"AI, Neural Networks, Big Data",172,2019-06-22
+Data Engineering with Java,A comprehensive guide on data engineering focusing on modern practices and real-world applications.,Mark Richardson,"C++, Python",749,2023-05-20
+Programming Languages with Python,A comprehensive guide on programming languages focusing on modern practices and real-world applications.,Daniel Conrad,"Cloud, Python, Kubernetes",182,2020-11-17
+Artificial Intelligence with Scala,A comprehensive guide on artificial intelligence focusing on modern practices and real-world applications.,Steven Howard,"Neural Networks, Big Data, Docker, Functional Programming, System Design",197,2017-08-25
+Software Engineering with C++,A comprehensive guide on software engineering focusing on modern practices and real-world applications.,Nicholas Hall,"Microservices, OOP",438,2021-05-12
+Distributed Systems with C++,A comprehensive guide on distributed systems focusing on modern practices and real-world applications.,Sean Gray,"Big Data, Docker, OOP",839,2025-01-18
+Programming Languages with Python,A comprehensive guide on programming languages focusing on modern practices and real-world applications.,Michael Hanson,"Functional Programming, Kubernetes, Python, Spring Boot, Cloud",389,2018-04-20
+Cloud Computing with Java,A comprehensive guide on cloud computing focusing on modern practices and real-world applications.,Cynthia Jackson,"Neural Networks, Machine Learning, System Design",653,2025-01-23
+Distributed Systems with C++,A comprehensive guide on distributed systems focusing on modern practices and real-world applications.,Lisa Dudley,"Kubernetes, C++, Big Data",275,2023-10-09
+Deep Learning with Python,A comprehensive guide on deep learning focusing on modern practices and real-world applications.,Sandra Schultz,"Java, AI, Cloud, Big Data",459,2016-03-01
+Distributed Systems with Scala,A comprehensive guide on distributed systems focusing on modern practices and real-world applications.,Sara Castillo,"Neural Networks, System Design, Functional Programming, Spring Boot, Docker",158,2021-06-18
+Distributed Systems with Go,A comprehensive guide on distributed systems focusing on modern practices and real-world applications.,Ashley Merritt,"Microservices, OOP, C++",569,2024-02-13
+Deep Learning with Python,A comprehensive guide on deep learning focusing on modern practices and real-world applications.,Jesus Orr,"Spring Boot, Microservices",161,2025-08-08
+DevOps with Python,A comprehensive guide on devops focusing on modern practices and real-world applications.,Carlos Robertson,"Functional Programming, System Design, Python, Cloud",736,2018-10-23
+Distributed Systems with Rust,A comprehensive guide on distributed systems focusing on modern practices and real-world applications.,Cindy Johnson,"Docker, Microservices, C++",765,2016-02-24
+Software Architecture with Python,A comprehensive guide on software architecture focusing on modern practices and real-world applications.,Wanda Good,"Machine Learning, C++",790,2021-09-02
+Cybersecurity with Scala,A comprehensive guide on cybersecurity focusing on modern practices and real-world applications.,Gregg Lin,"Docker, System Design, OOP, Python",553,2019-02-24
+Machine Learning with Java,A comprehensive guide on machine learning focusing on modern practices and real-world applications.,Donald Edwards,"Neural Networks, C++, AI",157,2024-09-10
+Cloud Computing with C++,A comprehensive guide on cloud computing focusing on modern practices and real-world applications.,Harry Williams,"Java, Microservices",635,2022-12-30
+Cybersecurity with Java,A comprehensive guide on cybersecurity focusing on modern practices and real-world applications.,Nicole Yates,"Docker, Kubernetes, Machine Learning, C++, Big Data",546,2022-09-08
+Machine Learning with Java,A comprehensive guide on machine learning focusing on modern practices and real-world applications.,Dr. April Davis,"Kubernetes, Microservices, C++",270,2021-10-14
+Artificial Intelligence with Python,A comprehensive guide on artificial intelligence focusing on modern practices and real-world applications.,Rodney Miller,"Functional Programming, Neural Networks",267,2019-11-12
+Machine Learning with Go,A comprehensive guide on machine learning focusing on modern practices and real-world applications.,Frank Davis,"C++, Docker, System Design",304,2020-01-25
+Artificial Intelligence with Rust,A comprehensive guide on artificial intelligence focusing on modern practices and real-world applications.,Christopher Haynes,"Machine Learning, AI",338,2021-08-01
+Software Engineering with Java,A comprehensive guide on software engineering focusing on modern practices and real-world applications.,Katie Phillips,"Neural Networks, Java",288,2024-10-31
+Cloud Computing with Rust,A comprehensive guide on cloud computing focusing on modern practices and real-world applications.,James Gallegos,"Docker, AI, Java, Neural Networks, Machine Learning",738,2017-11-28
+Programming Languages with Scala,A comprehensive guide on programming languages focusing on modern practices and real-world applications.,Amy Gamble,"Docker, Microservices, Cloud, Java",673,2022-06-06
+Agile Methodologies with Rust,A comprehensive guide on agile methodologies focusing on modern practices and real-world applications.,Lauren Hanson,"C++, Big Data, Java",315,2021-05-03
+Cloud Computing with Python,A comprehensive guide on cloud computing focusing on modern practices and real-world applications.,Maria Palmer,"Cloud, Neural Networks",175,2018-06-23
+Agile Methodologies with Rust,A comprehensive guide on agile methodologies focusing on modern practices and real-world applications.,Deborah Tanner,"Big Data, Neural Networks, Python",447,2021-02-18
+Distributed Systems with Python,A comprehensive guide on distributed systems focusing on modern practices and real-world applications.,Richard Harper,"Cloud, Machine Learning",703,2024-08-21
+Programming Languages with Scala,A comprehensive guide on programming languages focusing on modern practices and real-world applications.,Tanya Hayes,"AI, Kubernetes, C++",459,2023-08-22
+Distributed Systems with Rust,A comprehensive guide on distributed systems focusing on modern practices and real-world applications.,Molly Lynch,"OOP, Python",813,2024-05-10
+Data Engineering with Scala,A comprehensive guide on data engineering focusing on modern practices and real-world applications.,David Kennedy,"Machine Learning, Functional Programming, Microservices, Python, C++",378,2018-06-23
+DevOps with Scala,A comprehensive guide on devops focusing on modern practices and real-world applications.,Eric Moore,"Spring Boot, Docker",681,2025-09-07
+Software Engineering with Rust,A comprehensive guide on software engineering focusing on modern practices and real-world applications.,Jodi Smith,"Machine Learning, AI, Functional Programming, Python, System Design",707,2018-09-19
+Deep Learning with Scala,A comprehensive guide on deep learning focusing on modern practices and real-world applications.,Brandon Miller,"C++, Spring Boot, System Design, Functional Programming, Python",374,2024-11-02
+Software Engineering with C++,A comprehensive guide on software engineering focusing on modern practices and real-world applications.,Alexander Bates,"Spring Boot, Neural Networks, Big Data",847,2023-12-02
+Agile Methodologies with Rust,A comprehensive guide on agile methodologies focusing on modern practices and real-world applications.,Larry Weiss,"Java, Microservices, Functional Programming, Machine Learning, Kubernetes",502,2019-12-10
+Software Engineering with Java,A comprehensive guide on software engineering focusing on modern practices and real-world applications.,Marcus Lozano,"System Design, OOP, Big Data, Neural Networks, Machine Learning",159,2022-03-15
+Software Architecture with Scala,A comprehensive guide on software architecture focusing on modern practices and real-world applications.,Ashley Wall,"Machine Learning, OOP, Spring Boot",691,2024-04-15
+Software Architecture with C++,A comprehensive guide on software architecture focusing on modern practices and real-world applications.,Joshua Bowers,"Functional Programming, Java, Python",514,2023-02-06
+Artificial Intelligence with Scala,A comprehensive guide on artificial intelligence focusing on modern practices and real-world applications.,Kenneth Lee,"Spring Boot, Kubernetes, Cloud, AI",653,2018-11-29
+Cloud Computing with Rust,A comprehensive guide on cloud computing focusing on modern practices and real-world applications.,Susan Howe,"OOP, Functional Programming",749,2018-04-22
+Software Architecture with Rust,A comprehensive guide on software architecture focusing on modern practices and real-world applications.,Cameron Stewart,"Java, Machine Learning",750,2019-07-09
+Software Architecture with Java,A comprehensive guide on software architecture focusing on modern practices and real-world applications.,Danielle Simmons,"OOP, Cloud, Java",869,2024-01-03
+Cybersecurity with Java,A comprehensive guide on cybersecurity focusing on modern practices and real-world applications.,Elizabeth Wilson,"Neural Networks, Cloud",157,2024-05-08
+Cloud Computing with Rust,A comprehensive guide on cloud computing focusing on modern practices and real-world applications.,Scott Rhodes,"Cloud, System Design, Microservices, Functional Programming, Python",394,2020-07-16
+Data Engineering with Scala,A comprehensive guide on data engineering focusing on modern practices and real-world applications.,Molly Mullins,"Docker, Kubernetes",188,2019-11-19
+Software Architecture with Rust,A comprehensive guide on software architecture focusing on modern practices and real-world applications.,Timothy Miles,"Python, OOP, Kubernetes",638,2016-07-29
+Deep Learning with C++,A comprehensive guide on deep learning focusing on modern practices and real-world applications.,Andrea Griffin,"Big Data, Docker, Spring Boot, Machine Learning",344,2019-07-15
+Distributed Systems with Python,A comprehensive guide on distributed systems focusing on modern practices and real-world applications.,Ashley Knight,"System Design, Java, Big Data, OOP, Kubernetes",814,2018-07-31
+DevOps with Go,A comprehensive guide on devops focusing on modern practices and real-world applications.,Andrew Hall,"Neural Networks, Kubernetes, AI, Microservices, Machine Learning",521,2023-07-19
+Software Architecture with Rust,A comprehensive guide on software architecture focusing on modern practices and real-world applications.,Gene Potter,"AI, Python, Big Data, Spring Boot",518,2024-03-02
+Software Architecture with Rust,A comprehensive guide on software architecture focusing on modern practices and real-world applications.,Billy Harrell,"C++, System Design",734,2022-03-03
+Data Engineering with Java,A comprehensive guide on data engineering focusing on modern practices and real-world applications.,Michael Alexander,"Docker, Python",362,2017-09-01
+Software Engineering with C++,A comprehensive guide on software engineering focusing on modern practices and real-world applications.,Jenna Jones,"Cloud, OOP, System Design",339,2018-04-06
+Cloud Computing with Java,A comprehensive guide on cloud computing focusing on modern practices and real-world applications.,Frank Hill,"Big Data, AI",634,2019-12-28
+Cloud Computing with Go,A comprehensive guide on cloud computing focusing on modern practices and real-world applications.,Dillon Hernandez,"Cloud, Java",797,2023-11-14
+DevOps with Scala,A comprehensive guide on devops focusing on modern practices and real-world applications.,Gary West,"Docker, Machine Learning, Neural Networks, Big Data, Cloud",160,2023-05-24
+Deep Learning with Python,A comprehensive guide on deep learning focusing on modern practices and real-world applications.,Cody Harrison,"System Design, Java, Kubernetes, Functional Programming",676,2024-05-29
+Artificial Intelligence with Python,A comprehensive guide on artificial intelligence focusing on modern practices and real-world applications.,Mr. Timothy Miranda,"Docker, Kubernetes, Big Data",219,2018-09-07
