@@ -6,7 +6,8 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 
 ## Tools to execute this project:
 
-1. Claude Code
+1. Java 21
+2. Claude Code
 2. Ollama: https://docs.ollama.com/
 3. Quarkus: https://pt.quarkus.io/
 4. PgVector: A standard relational database excels at structured queries but struggles with finding data based on conceptual similarity
