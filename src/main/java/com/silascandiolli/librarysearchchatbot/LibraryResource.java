@@ -1,4 +1,4 @@
-package com.silascandiolli.ai;
+package com.silascandiolli;
 
 import jakarta.inject.Inject;
 import jakarta.ws.rs.GET;

@@ -1,4 +1,4 @@
-package com.silascandiolli.ai;
+package com.silascandiolli;
 
 import dev.langchain4j.data.segment.TextSegment;
 import dev.langchain4j.model.embedding.EmbeddingModel;

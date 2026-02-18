@@ -1,4 +1,4 @@
-package com.silascandiolli.ai;
+package com.silascandiolli;
 
 import io.quarkus.test.junit.QuarkusIntegrationTest;
 

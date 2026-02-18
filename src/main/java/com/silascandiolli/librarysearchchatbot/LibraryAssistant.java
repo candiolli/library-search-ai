@@ -1,4 +1,4 @@
-package com.silascandiolli.ai;
+package com.silascandiolli;
 
 import dev.langchain4j.service.SystemMessage;
 import io.quarkiverse.langchain4j.RegisterAiService;

@@ -1,18 +1,17 @@
-package com.silascandiolli.ai;
+package com.silascandiolli;
 
 import dev.langchain4j.data.document.Document;
 import dev.langchain4j.store.embedding.EmbeddingStoreIngestor;
 import io.quarkus.runtime.StartupEvent;
+import io.smallrye.common.annotation.RunOnVirtualThread;
 import jakarta.enterprise.context.ApplicationScoped;
 import jakarta.enterprise.event.Observes;
 import jakarta.inject.Inject;
 import org.eclipse.microprofile.config.inject.ConfigProperty;
-import io.smallrye.common.annotation.RunOnVirtualThread;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.nio.charset.StandardCharsets;
-import java.util.Arrays;
 import java.util.List;
 import java.util.Objects;
 import java.util.stream.Collectors;
@@ -63,8 +62,7 @@ public class DataIngestor {
                     "The book '%s' is talking about %s. Wrote by %s, is related with those categories %s. " +
                             "Has total of pages '%s', " +
                             "it was lanched on %s.",
-                    bookName, bookDescription, tags, bookAuthor, pages, dateOfLaunch
-            );
+                    bookName, bookDescription, bookAuthor, tags, pages, dateOfLaunch);
 
             System.out.println("row = " + documentText);
 

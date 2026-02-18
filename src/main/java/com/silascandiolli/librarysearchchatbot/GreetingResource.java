@@ -1,4 +1,4 @@
-package com.silascandiolli.ai;
+package com.silascandiolli;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
